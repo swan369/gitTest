@@ -1,4 +1,4 @@
 # gitTest
 
 to practice git only
-change 3
+change 1
